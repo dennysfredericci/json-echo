@@ -3,4 +3,4 @@
 https://json-echo-fredericci.herokuapp.com/
 
 
-https://json-echo-fredericci.herokuapp.com/status/500 
+https://json-echo-fredericci.herokuapp.com/echo?status=500 
